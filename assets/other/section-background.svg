@@ -1,0 +1,85 @@
+<svg width="1757" height="987" viewBox="0 0 1757 987" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M187.735 603.831L236.412 595.197L219.551 641.67L187.735 603.831Z" fill="#EBEBEB"/>
+<path d="M187.735 107.832L236.412 99.1975L219.551 145.671L187.735 107.832Z" fill="#EBEBEB"/>
+<path d="M133.735 834.831L182.412 826.197L165.551 872.67L133.735 834.831Z" fill="#EBEBEB"/>
+<path d="M133.735 338.832L182.412 330.197L165.551 376.671L133.735 338.832Z" fill="#EBEBEB"/>
+<path d="M28.0453 684.975L59.9049 723.353L11.329 731.969L28.0453 684.975Z" fill="#EBEBEB"/>
+<path d="M28.0453 188.976L59.9049 227.354L11.329 235.97L28.0453 188.976Z" fill="#EBEBEB"/>
+<path d="M28.0453 918.975L59.7952 956.734L11.2193 965.351L28.0453 918.975Z" fill="#EBEBEB"/>
+<path d="M28.0453 422.976L59.7952 460.735L11.2193 469.352L28.0453 422.976Z" fill="#EBEBEB"/>
+<path d="M1692.73 570.831L1741.41 562.197L1724.55 608.67L1692.73 570.831Z" fill="#EBEBEB"/>
+<path d="M1692.73 74.8318L1741.41 66.1975L1724.55 112.671L1692.73 74.8318Z" fill="#EBEBEB"/>
+<path d="M1638.73 801.831L1687.41 793.197L1670.55 839.67L1638.73 801.831Z" fill="#EBEBEB"/>
+<path d="M1638.73 305.832L1687.41 297.197L1670.55 343.671L1638.73 305.832Z" fill="#EBEBEB"/>
+<path d="M1533.05 651.975L1564.9 690.353L1516.33 698.969L1533.05 651.975Z" fill="#EBEBEB"/>
+<path d="M1533.05 155.976L1564.9 194.354L1516.33 202.97L1533.05 155.976Z" fill="#EBEBEB"/>
+<path d="M1533.05 885.975L1564.8 923.734L1516.22 932.351L1533.05 885.975Z" fill="#EBEBEB"/>
+<path d="M1533.05 389.976L1564.8 427.735L1516.22 436.352L1533.05 389.976Z" fill="#EBEBEB"/>
+<path d="M1329.73 570.829L1378.41 562.195L1361.55 608.668L1329.73 570.829Z" fill="#EBEBEB"/>
+<path d="M1392.34 112.348L1348.08 90.3345L1389.27 63.0062L1392.34 112.348Z" fill="#EBEBEB"/>
+<path d="M1170.05 155.975L1201.9 194.353L1153.33 202.969L1170.05 155.975Z" fill="#EBEBEB"/>
+<path d="M1111.05 924.974L1142.8 962.734L1094.22 971.35L1111.05 924.974Z" fill="#EBEBEB"/>
+<path d="M534.735 38.8318L583.412 30.1975L566.551 76.6707L534.735 38.8318Z" fill="#EBEBEB"/>
+<path d="M391.045 155.976L422.905 194.354L374.329 202.97L391.045 155.976Z" fill="#EBEBEB"/>
+<path d="M391.045 885.975L422.795 923.734L374.219 932.351L391.045 885.975Z" fill="#EBEBEB"/>
+<g filter="url(#filter0_b)">
+<path d="M914.045 361.975L945.795 399.734L897.219 408.351L914.045 361.975Z" fill="#DBDBDB" fill-opacity="0.3"/>
+</g>
+<g filter="url(#filter1_b)">
+<path d="M389.045 432.975L420.795 470.734L372.219 479.351L389.045 432.975Z" fill="#DBDBDB" fill-opacity="0.3"/>
+</g>
+<g filter="url(#filter2_b)">
+<path d="M1350.05 745.975L1381.8 783.734L1333.22 792.351L1350.05 745.975Z" fill="#DBDBDB" fill-opacity="0.3"/>
+</g>
+<g filter="url(#filter3_b)">
+<path d="M843.667 577.242L886.392 601.909L843.667 626.576L843.667 577.242Z" fill="#DBDBDB" fill-opacity="0.3"/>
+</g>
+<g filter="url(#filter4_b)">
+<path d="M1236.05 280.975L1267.8 318.734L1219.22 327.351L1236.05 280.975Z" fill="#DBDBDB" fill-opacity="0.3"/>
+</g>
+<g filter="url(#filter5_b)">
+<path d="M533.968 570.341L553.454 615.664L504.46 609.877L533.968 570.341Z" fill="#DBDBDB" fill-opacity="0.3"/>
+</g>
+<path d="M1019.73 38.8318L1068.41 30.1975L1051.55 76.6707L1019.73 38.8318Z" fill="#EBEBEB"/>
+<path d="M770.188 20.5854L818.063 32.9148L783.448 68.2114L770.188 20.5854Z" fill="#EBEBEB"/>
+<path d="M595.735 192.832L644.412 184.197L627.551 230.671L595.735 192.832Z" fill="#EBEBEB"/>
+<path d="M689.045 924.975L720.795 962.734L672.219 971.351L689.045 924.975Z" fill="#EBEBEB"/>
+<defs>
+<filter id="filter0_b" x="885.757" y="353.666" width="64.0378" height="58.6842" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+<filter id="filter1_b" x="360.757" y="424.666" width="64.0378" height="58.6842" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+<filter id="filter2_b" x="1321.76" y="737.666" width="64.0378" height="58.6842" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+<filter id="filter3_b" x="818.305" y="560.908" width="72.087" height="69.6677" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+<filter id="filter4_b" x="1207.76" y="272.666" width="64.0378" height="58.6842" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+<filter id="filter5_b" x="500.46" y="563.447" width="62.0051" height="56.2165" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+</defs>
+</svg>
